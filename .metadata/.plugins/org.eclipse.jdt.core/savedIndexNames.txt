@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\SILICON\Documents\20BCEC10Proj\.metadata\.plugins\org.eclipse.jdt.core
+743264852.index
+3271193799.index
+2328079727.index
+1237144089.index
+2645609851.index
+1865797976.index
+1578648238.index
